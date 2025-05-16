@@ -32,16 +32,16 @@ Bu proje, deniz yüzeyinde yürütülen arama kurtarma çalışmalarına destek 
   - Kayak   
 
 ---
-Model ve Eğitim Süreci
+## Kullanılan Model
 
-- **Model**: YOLOv9-C  
+- **Model**: YOLOv9-c.pt
 - **Görsel Girdi Boyutu**: 640x640   
 - **Epoch Sayısı**: 300 epoch  
 - **Platform**: Google Colab üzerinde eğitilmiştir.
 
 ---
 
-## 📊 Model Performansı
+## Model Performansı Sonuçları
 
 | Metrik            | Değer   |
 |-------------------|---------|
