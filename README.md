@@ -1,10 +1,8 @@
-#AFO Veri Seti ile YOLOv9 Kullanılarak Deniz 
-Ortamında Küçük Nesne Tespiti 
 # YOLOv9 ile Deniz Üzerinde Küçük Nesne Tespiti (AFO Dataset)
+Bu proje, Gölhisar Uygulamalı Bilimler Yüksekokulu'nda AFODEN grubu tarafından, YOLOv9 modeli kullanılarak deniz ortamında nesne tespiti amacıyla gerçekleştirilmiştir.
 
 ## Grup: AFODEN
-
-**Proje Ekibi**  
+**Grup Üyeleri**  
 - İsmail Can Dağ  
 - Doğukan Olağ  
 - Alperen Kaya
@@ -64,8 +62,4 @@ Model ve Eğitim Süreci
 | Kayak      | 0.987 | 0.937     | 0.973  |
 
 ---
-
-## 🛰️ Uygulama Alanı
-
-Bu sistem, deniz ortamında arama kurtarma ekiplerinin daha hızlı ve güvenli müdahalede bulunabilmesi için İHA’larla entegre şekilde çalışabilir. Tespit edilen nesneler sayesinde kaybolmuş bireyler veya su üstündeki nesneler kolayca belirlenebilir.
 
